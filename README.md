@@ -1,4 +1,4 @@
-# santiskinform
+# SantiSkinForm
 This code represents an HTML document that creates a contact form for SantiClinic. The form allows users to enter their name, email, phone number, and message. The form includes validation for the name, email, and phone number fields to ensure they are filled out correctly.
 
 Upon submitting the form, the data is sent to a Google Apps Script URL using the HTTP POST method. After submitting the form, a success message is displayed, and the form is reset.
